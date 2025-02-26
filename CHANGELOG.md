@@ -1,4 +1,27 @@
 # Changelog
+
+## v0.5.5
+
+<!-- Release notes generated using configuration in .github/release.yml at ci_updates -->
+
+## What's Changed
+### 🔄 Other Changes
+* Docs by @naik-aakash in https://github.com/naik-aakash/LobsterPy/pull/1
+
+## New Contributors
+* @naik-aakash made their first contribution in https://github.com/naik-aakash/LobsterPy/pull/1
+
+**Full Changelog**: https://github.com/naik-aakash/LobsterPy/commits/v0.5.5
+
+
+## v0.5.4
+Same as v0.5.3. with correct dependencies
+
+### What's Changed
+* Fix dependencies by @naik-aakash in https://github.com/JaGeo/LobsterPy/pull/364
+
+**Full Changelog**: https://github.com/JaGeo/LobsterPy/compare/v0.5.3...v0.5.4
+
 ## v0.5.3
 Same as v0.5.1. Version number in 0.5.1 wasn't updated correctly
 
